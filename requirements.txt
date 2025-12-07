@@ -1,0 +1,5 @@
+aiogram
+google-generativeai
+yt-dlp
+Pillow
+openai
