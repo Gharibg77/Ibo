@@ -1,0 +1,1 @@
+python3 T1.py
