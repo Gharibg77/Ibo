@@ -15,8 +15,8 @@ import google.generativeai as genai
 # 🔐 منطقة الإعدادات والمفاتيح
 # =========================================================
 TELEGRAM_TOKEN = "7940507828:AAGbx0YP6DuFFlDxY8PsruhnIS9WJJRfXas"
-GOOGLE_API_KEY = "AIzaSyAeMNXOMdO0mJMF6E_9eF9dubOY-36pXhs" 
-MAIN_MODEL_NAME = "models/gemini-2.0-flash-001"
+GOOGLE_API_KEY = "AIzaSyDNBbbRPFS3hZ2flTTwatprSPtIdK5xqkg" 
+MAIN_MODEL_NAME = "models/gemini-flash-latest"
 
 # =========================================================
 # ⚙️ تهيئة العملاء
